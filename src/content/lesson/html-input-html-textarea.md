@@ -1,5 +1,5 @@
 ---
-title: "Understanding HTML Input HTML Text Area and Forms..."
+title: "Understanding HTML Input HTML Text Area and Forms... continue"
 subtitle: "HTML forms, HTML input and HTML text-area are really easy to understand, and they are the ONLY way to make interactive websites without AJAX. These very basic concepts represent 90% of everything you will ever need to know about forms."
 cover: "https://breathecode.herokuapp.com/v1/media/file/4geeks-com-thumbnail-slug-html-input-html-textarea-png"
 textColor: "white"
